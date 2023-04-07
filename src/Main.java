@@ -1,5 +1,8 @@
+import RestaurantMenu.Menu
+import RestaurantMenu.MenuItem
+
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
+    MenuItem eggs = new MenuItem (0, "eggs", "entree", true);
+
+
 }
